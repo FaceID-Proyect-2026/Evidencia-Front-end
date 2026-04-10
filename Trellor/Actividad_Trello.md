@@ -10,6 +10,10 @@ https://trello.com/b/BArWhgJX/faceid
 
 https://github.com/FaceID-Proyect-2026/FaceID-Front-end
 
+### diseño en figma
+
+https://www.figma.com/design/fRPJLroPiL9Jeu4zhfy0Zf/FaceID-completo?node-id=0-1&t=cqOYHEvyGlbcUXXJ-1
+
 
 
 
